@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel Primi Passi</title>
+    <title>About</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
@@ -29,6 +29,6 @@
     </div>
   </div>
 </nav>
-    <h1 class="text-center mt-4">Hello World</h1>
+    <h1 class="text-center mt-4">About</h1>
 </body>
 </html>
