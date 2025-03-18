@@ -29,6 +29,9 @@
     </div>
   </div>
 </nav>
-    <h1 class="text-center mt-4">Hello World</h1>
+<div class="text-center mt-4">
+    <h1>Hello World</h1>
+    <p>{{ $welcome }}</p>
+    </div>
 </body>
 </html>

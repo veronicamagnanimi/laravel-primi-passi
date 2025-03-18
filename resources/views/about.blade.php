@@ -29,6 +29,9 @@
     </div>
   </div>
 </nav>
-    <h1 class="text-center mt-4">About</h1>
+<div class="text-center mt-4">
+    <h1>About</h1>
+    <p>{{ $about }}</p>
+    </div>
 </body>
 </html>
